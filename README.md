@@ -339,9 +339,9 @@ Como possíveis extensões, poderiam ser investigados:
 
 ## Autores
 
-**• Gabriel Guimarães de Oliveira — RM: 567835 
-• Pedro Paulo Ferreira Agnelo D'angelo — RM: 567564 
-• Christian Raymundo Diaz - RM: 568324 **
+**• Gabriel Guimarães de Oliveira — RM: 567835**
+**• Pedro Paulo Ferreira Agnelo D'angelo — RM: 567564** 
+**• Christian Raymundo Diaz - RM: 568324**
 
 Ciência da Computação — FIAP
 
